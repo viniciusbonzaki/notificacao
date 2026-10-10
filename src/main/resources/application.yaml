@@ -25,7 +25,6 @@ spring:
 envio:
   email:
     remetente:
-    nomeRemetente: 'API de Notificação'
-
+    nomeRemetente:
 server:
   port: 8082
